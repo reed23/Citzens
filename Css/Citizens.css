@@ -1,0 +1,102 @@
+
+
+#wrapper{
+	background-color: lightblue;
+	height: 1531px;
+	width: 2086;
+    display: block;
+    margin-right: 0px;
+    background-position: absolute;
+}
+
+#p{
+  text-decoration: inline;
+  margin-left: 0px;
+  font-size: 10em;
+  font-family: sans-serif;
+  padding-top: 0px;
+
+}
+
+#container{
+  background-color: white;
+  height: 1500px;
+  width: 1000px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 110px;
+  margin-bottom: 100px;
+  position: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  }
+
+  
+ul {
+    list-style-type: none;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    margin-top: 333px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: gray;
+    height: 80px;
+    width: 800px;
+
+
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 100px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    text-indent: 5px;
+    text-transform: uppercase;
+
+}
+ 
+#wrapper2{ 
+background-color: lightgreen;
+  height: 200px;
+  width: 500px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 110px;
+  margin-bottom: 100px;
+  position: center;
+  padding-left: 50px;
+  padding-right: 50px
+
+
+
+
+}
+
+
+
+
+div.form{ 
+  width: 500;
+  height: 300;
+  background-color: black;
+
+
+}
+ #image1{
+  background-color: white;
+  width: 50px;
+  height: 50px;
+
+
+
+ }
