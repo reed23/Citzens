@@ -7,6 +7,11 @@
     display: block;
     margin-right: 0px;
     background-position: absolute;
+    padding-bottom: 100px;
+
+
+
+
 }
 
 #p{
@@ -21,11 +26,11 @@
 #container{
   background-color: white;
   height: 1500px;
-  width: 1000px;
+  width: 1300px;
   display: block;
   margin-left: 100px;
   margin-right: 100px;
-  margin-top: 110px;
+  margin-top: 0px;
   margin-bottom: 100px;
   position: center;
   padding-left: 50px;
@@ -35,14 +40,16 @@
   
 ul {
     list-style-type: none;
-    margin-right: 25px;
-    margin-bottom: 75px;
-    margin-top: 0px;
-    padding-top: 20px;
+    margin-top: 25px;
+    padding: 0px;
     overflow: hidden;
-    background-color: gray;
-    height: 80px;
-    width: 800px;
+    background-color: lightgray;
+    height: 50px;
+    width: 1000px;
+    position: center;
+    
+
+
 
 
 }
@@ -56,7 +63,7 @@ a:link, a:visited {
     width: 100px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: gray;
+    background-color: none;
     text-align: center;
     padding: 10px;
     text-indent: 5px;
@@ -65,14 +72,11 @@ a:link, a:visited {
 }
  
 #wrapper2{ 
-background-color: lightgreen;
-  height: 200px;
-  width: 500px;
+background-color: #699797;
+  height: 320px;
+  width: 1100px;
   display: block;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 110px;
-  margin-bottom: 100px;
+  margin: 0 auto;
   position: center;
   padding-left: 50px;
   padding-right: 50px
@@ -85,10 +89,12 @@ background-color: lightgreen;
 
 
 
-div.form{ 
+#form{ 
   width: 500;
   height: 300;
-  background-color: black;
+  background-color: white;
+  border: 15px;
+  border-style: solid black;
 
 
 }
@@ -171,8 +177,76 @@ background-color: lightgreen;
 
 
 
+#wrapper4{
+  background-color: lightgreen;
+  height: 1531px;
+  width: 2086;
+    display: block;
+    margin-right: 0px;
+    background-position: absolute
+
+}
+
+#container4{
+  background-color: white;
+  height: 1000px;
+  width: 800px;  
+    margin-top:100px;
+    margin-left: 25px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+    background-position: absolute;
+    border-top: 10px;
+}
+
+  #wrapper5{
+  background-color: orange;
+  height: 200px;
+  width: 200px;
+    display: block;
+    margin-right: 0px;
+    background-position: absolute;
+
+}
+
+#list2{
+  width:50%;
+  background-color::blue;
 
 
+
+}
+
+div.table2{
+  background-color: blue;
+   margin-left: 50px;
+}
+
+#p5{
+  text-indent: 50px;
+  background-color: yellow;
+  display: inline-block;
+  width: 50%;
+  
+}
+
+
+#image1{
+  list-style-image: inherit;
+  width: 550px;
+  height: 130px;
+  padding-top: -10px;
+  background-color: lightblue;
+
+
+
+
+}
+
+#img3{
+  position: right;
+  background-color: blue;
+}
 
 
 
